@@ -16,7 +16,18 @@ Here you'll find structured and well-documented projects spanning from operating
 ---
 
 ## 📌 Highlights from My Work  
-
+### **IonOS** EV Charger service
+- A REST Web App that allows clients to find chargers for their EV.
+- Node.js, Express, MySQL, MariaDB, Vue.js and many more.
+- I was a part of a four people team, tasked with designing and implementing Back-end Server.
+- **SRS Documentation** in Visual Paradigm: Component, Deployment, Use-Cases, Requirement diagrams
+  
+### **Lingua Chat**
+- A Flutter android app that utilize AI to help you learn new languages.
+- Use of smartphone modules like microphone, location, storage etc.
+- Use of remote Database as a Service (**firebase**) for real time data storage.
+- **Video** of the working app inside the repository.
+  
 ### **7th Semester Projects**
 - **OS Lab**: Linux kernel modules, character device drivers, and file system implementations.  
 - **Microlab**: System-level programming and memory-mapped I/O in embedded environments.
@@ -29,9 +40,9 @@ Here you'll find structured and well-documented projects spanning from operating
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: C, Java, Python, SML/NJ, Prolog, SQL  
-- **Tools**: GCC, Make, Git, QEMU/KVM, MariaDB, Linux Kernel, AVR microprocessors
-- **Concepts**: Operating Systems, Systems Programming, Databases, Functional & Logic Programming and many more
+- **Languages**: C, C++, Flutter, Dart, JavaScript, Python, Java, SML/NJ, Prolog, SQL, NoSQL 
+- **Tools**: GCC, Make, Git, QEMU/KVM, Linux Kernel, AVR microprocessors, MariaDB
+- **Concepts**: Operating Systems, Low-Level I/O, Systems Architecture, Databases, Functional & Logic Programming and many more.
 
 ---
 
