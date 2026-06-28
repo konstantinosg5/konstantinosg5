@@ -16,6 +16,12 @@ Here you'll find structured and well-documented projects spanning from operating
 ---
 
 ## 📌 Highlights from My Work  
+### **SaasPlug** Software as a Service EV Charger platform
+- A REST Web App built with a microservice architecture, that allows EV Users to find charging stations and Charger Providers to use a unified central platform as a middleman for their services.
+- React/Vite frontend, Docker Compose orchestration, MongoDB persistence, RabbitMQ event routing, and JWT-based authentication
+- I was a part of a three people team, tasked with designing and implementing different microservices.
+- **Documentation** in Visual Paradigm: Component, Deployment, Use-Cases, DTOs, APIs, Classes, Sequence
+  
 ### **IonOS** EV Charger service
 - A REST Web App that allows clients to find chargers for their EV.
 - Node.js, Express, MySQL, MariaDB, Vue.js and many more.
