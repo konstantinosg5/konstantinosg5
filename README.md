@@ -47,8 +47,8 @@ Here you'll find structured and well-documented projects spanning from operating
 
 ## 🛠️ Technologies & Tools  
 - **Languages**: C, C++, Flutter, Dart, JavaScript, Python, Java, SML/NJ, Prolog, SQL, NoSQL 
-- **Tools**: GCC, Make, Git, QEMU/KVM, Linux Kernel, AVR microprocessors, MariaDB
-- **Concepts**: Operating Systems, Low-Level I/O, Systems Architecture, Databases, Functional & Logic Programming and many more.
+- **Tools**: GCC, Make, Git, QEMU/KVM, Linux Kernel, AVR microprocessors, MariaDB, MongoDV, Docker Compose, RabbitMQ
+- **Concepts**: Operating Systems, Low-Level I/O, Systems Architecture, Microservices, REST API, Databases, Asynchronous Messaging Choreographer, Distributed Transactions and many more.
 
 ---
 
